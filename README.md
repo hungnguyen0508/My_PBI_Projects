@@ -1,2 +1,2 @@
 # My_PBI_Projects
-This is where I store all my Power BI projects that I have done. Spend your valuable time looking around !
+This place marks my journey on studying and practising Power BI. Spend your valuable time looking around !
